@@ -1,0 +1,10 @@
+# Report documents - not part of the code/data repo
+*.docx
+*.doc
+*.pdf
+
+# OS / editor junk
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
